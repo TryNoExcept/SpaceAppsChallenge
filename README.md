@@ -3,12 +3,15 @@
 
 ## MODULAIR PURIFYING SYSTEM - THE BEST SOLUTION FOR YOU. EVERYWHERE.
 
-Differently from regular purifying systems, the team seeks cost reduction by using more economic assembly material with an efficient filtration mechanism, which takes into consideration the difficulties at eliminating virus and bacteria from indoor air. The solution proposed consists in an Air Purifier using UV-C Technology integrated with HEPA filtering process.
+Differently from regular purifying systems, the team seeks cost reduction by using more economic assembly material with an efficient filtration mechanism, which takes into consideration the difficulties at eliminating virus and bacteria from indoor air. The solution proposed consists in an Air Purifier using UV-C Technology integrated with HEPA filtering process.When facing a challenge of this magnitude, the possibility of providing helping methods to the community is extremely important, as the solution is able to impact a wide range of the population.
 
 ![](WhatsApp-Video-2020-05-31-at-4.16.29-PM.gif)
 
+Merging a conventional filtration mechanism with UV-C radiation technology, based on Nasa’s own Airocide product, enables our solution to provide a better air quality at indoor ambients at lower costs, making a positive impact in the lives of individuals in vulnerable conditions. The project puts together two technologies in a cheaper and more accessible structure, making its validation faster and simpler. Even though all the components exist already, the innovation comes in the way they are utilized and in the development of new support structures, adapting the product for different environments.
 
 ![](WhatsApp-Video-2020-05-31-at-4.20.58-PM.gif)
+
+The operation principal is simple: A compressor pulls air inside of the chamber. This air is initally filtered through a fisical filter. After that, this air will be displaced based in a flap mechanism, going to one of the two chamber. Inside the chamber, an UV-C Light is responsible for filtering Virus and Bacteria for 15 seconds, seeking a complete filtering. Once the filtering time ends, the chamber a flap allows the air to go back to the ambient, but, simultaneously, the other chambers restarts the filtering process with dirty air. 
 
 ***See the [changelog] for what's new in the most recent release.***
 
