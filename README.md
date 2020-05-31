@@ -53,6 +53,9 @@ Check here the Code: https://github.com/TryNoExcept/SpaceAppsChallenge/blob/mast
 ![solarized palettes](https://github.com/TryNoExcept/SpaceAppsChallenge/blob/master/Fluxograma.png)
 Check here the Chart Flow in PDF: https://github.com/TryNoExcept/SpaceAppsChallenge/blob/master/System_Control_flowchart.pdf
 
+### MEETING MINUTES
+Check here our Meeting Minutes: https://drive.google.com/drive/folders/1N3H63mHlP59Ebbp0dhKbDuDc_fGKpCKg?usp=sharing
+
 ### CREW MEMBERS 
 
 ![solarized palettes](https://github.com/TryNoExcept/SpaceAppsChallenge/blob/master/teamcrew.jpg)
