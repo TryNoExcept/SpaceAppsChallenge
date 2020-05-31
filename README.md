@@ -7,6 +7,9 @@ Differently from regular purifying systems, the team seeks cost reduction by usi
 
 ![](WhatsApp-Video-2020-05-31-at-4.16.29-PM.gif)
 
+
+![](WhatsApp-Video-2020-05-31-at-4.20.58-PM.gif)
+
 ***See the [changelog] for what's new in the most recent release.***
 
 ![solarized palette](https://github.com/altercation/solarized/raw/master/img/solarized-palette.png)
