@@ -42,6 +42,7 @@ To develop a prototype during this digital Hackathon, while not being able to ph
 ![solarized palettes](https://github.com/TryNoExcept/SpaceAppsChallenge/blob/master/arduino.PNG)
 
 Check here the Simulation: https://www.tinkercad.com/things/l4fngRN90tf-nasa-space-challenge-prototype
+
 Check here the Code: https://github.com/TryNoExcept/SpaceAppsChallenge/blob/master/TryNoExcept_SystemOfControl.ino
 
 ![solarized palettes](https://github.com/TryNoExcept/SpaceAppsChallenge/blob/master/Fluxograma.png)
