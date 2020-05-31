@@ -13,50 +13,32 @@ Merging a conventional filtration mechanism with UV-C radiation technology, base
 
 The operation principal is simple: A compressor pulls air inside of the chamber. This air is initally filtered through a fisical filter. After that, this air will be displaced based in a flap mechanism, going to one of the two chamber. Inside the chamber, an UV-C Light is responsible for filtering Virus and Bacteria for 15 seconds, seeking a complete filtering. Once the filtering time ends, the chamber a flap allows the air to go back to the ambient, but, simultaneously, the other chambers restarts the filtering process with dirty air. 
 
-***See the [changelog] for what's new in the most recent release.***
+### Problem
+High Levels of pollution in large urban centers are not new information. NASA’s Air Quality Group has been collecting data showing how NO2 concentration decreased recently and this changes are driven by alteration in human behavior as a response to evolving restrictions during the COVID-19 pandemic.
 
-![solarized palette](https://github.com/altercation/solarized/raw/master/img/solarized-palette.png)
 
-![solarized vim](https://github.com/altercation/solarized/raw/master/img/solarized-vim.png)
+This drastic measures such as lockdown taken by countries worldwide to contain the spread of COVID-19 have influenced air pollution dynamics substantially, at a planetary scale. The most effective prevention tool implemented in many countries is home isolation for both healthy and infected individuals with mild symptoms. Isolation for protection from COVID-19 might be effective, but unfortunately, isolation with improper ventilation could lead to other health problems,such as irritation, physical symptoms, respiratory and heart diseases, and cancer. 
+***Images took from https://airquality.gsfc.nasa.gov/no2/world***
 
-Currently available in formats for (cf [screenshots](#screenshots) below):
+![solarized palettes](https://github.com/TryNoExcept/SpaceAppsChallenge/blob/master/airquality.PNG)
 
-### Editors & IDEs
+People stay indoors for about 93% of their time and this may increase to 100% for some in the current situation, which increases their rate of exposure to poor Indoor Air Quality. Indoor concentration of some contaminants are sometimes 2-5 times their relative outdoor concentration. Home isolation due to coronavirus might protect us from this virus, but poor ventilation due to the fear of contracting COVID-19 might lead to other health problems. An air purifier can be a good outlet for this issue, but most of the population does not have enough budget to afford such a device due to high level prices. Furthermore, most of this equipment is not adaptable to the environment, requiring a room redesign to have a full efficiency at purifying the air. 
 
-*   **Vim** by [me](https://github.com/altercation) (the Vim-only portion of Solarized is
-    [available here](https://github.com/altercation/vim-colors-solarized), for use with
-    Pathogen, etc.). See also the [Vim README](http://ethanschoonover.com/solarized/vim-colors-solarized).
-*   **Emacs** courtesy of [Greg Pfeil](http://blog.technomadic.org)
-    ([@sellout](http://twitter.com/sellout))
-    in the main repo and in a [standalone repository][Emacs Repository]
-*   **IntelliJ IDEA**
-    courtesy of [Johan Kaving](https://github.com/jkaving) and
-    ([@flangy](http://twitter.com/flangy))
-    in the main repo and in a [standalone repository][IntelliJ Repository]
-*   **NetBeans** courtesy of [Brian Fenton](https://github.com/fentie) and
-    in the main repo and in a [standalone repository][NetBeans Repository]
-*   **SeeStyle theme for Coda & SubEthaEdit** courtesy of
-    [Justin Hileman](http://justinhileman.com/)
-    ([@bobthecow](http://twitter.com/bobthecow)),
-    in the main repo and in a
-    [standalone repository][SeeStyle-Coda-SubEthaEdit Repository]
-*   **TextMate** --- ***NOTE:*** Dark Theme is work in progress\
-    courtesy of [Tom Martin](http://thedeplorableword.net/)
-    ([@deplorableword](http://twitter.com/deplorableword))
-    in the main repo and in a [standalone repository][TextMate Repository]
-    (with key work from [Mark Story](http://mark-story.com)
-    and [Brian Mathiyakom](http://brian.rarevisions.net))
-*   **TextWrangler & BBEdit** courtesy of [Rui Carmo](http://the.taoofmac.com)
-    ([@taoofmac](http://twitter.com/taoofmac))
-    in the main repo and in a [standalone repository][TextWrangler-BBEdit Repository]
-*   **Visual Studio** courtesy of [David Thibault](http://www.leddt.com)
-    ([@leddt](http://twitter.com/leddt))
-    in the main repo and in a [standalone repository][Visual Studio Repository]
 
-*   **Xcode** work in progress ports are available for [Xcode 3] and [Xcode 4]
-    and will be pulled into the main Solarized project soon.
+### REFERENCES
 
-### Terminal Emulators
+NATIONAL AERONAUTICS AND SPACE ADMINISTRATION. Life Support Systems. 2017. Sustaining Humans Beyond Earth. Disponível em: https://www.nasa.gov/content/life-support-systems. Acesso em: 30 maio 2020.
+
+SCHNEIDER, Jonny. The Double Diamond: strategy + execution of the right solution. Strategy + Execution of the Right Solution. 2015. Disponível em: https://www.thoughtworks.com/insights/blog/double-diamond. Acesso em: 30 maio 2020.
+
+NATIONAL AERONAUTICS AND SPACE ADMINISTRATION. Health and Air Quality Data Pathfinder. EARTHDATA. Disponível em: https://earthdata.nasa.gov/learn/pathfinders/health-and-air-quality-data-pathfinder. Acesso em: 30 maio 2020.
+
+NATIONAL AERONAUTICS AND SPACE ADMINISTRATION. Clearing the Air in Space: improving life support on international space station and for deep space exploration. Improving Life Support on International Space Station and For Deep Space Exploration. 2016. Disponível em: https://www.nasa.gov/mission_pages/station/research/long_duration_sorbent_testbed. Acesso em: 30 maio 2020.
+
+International Space Station: air purification. Air Purification. 2011. Disponível em: https://www.nasa.gov/mission_pages/station/research/advasc.html. Acesso em: 30 maio 2020.
+
+Shrestha, Asheshwor & Sharma, Roshan & Bhattarai, Suraj & Tran, Hanh & Rupakheti, Maheswar. (2020). Lockdown caused by COVID-19 pandemic reduces air pollution in cities worldwide. 10.31223/osf.io/edt4j.
+
 
 * **Xresources** / Xdefaults
 * **iTerm2**
