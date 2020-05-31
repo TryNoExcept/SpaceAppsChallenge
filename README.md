@@ -37,6 +37,11 @@ The main focus of the solution is to help the society to live better through the
 The availability of numerous articles about air purifying, both on space and on Earth, was essential to provide a better comprehension about the different processes. Based on the provided articles and data about air quality the team was able to elaborate and later improve our solution constantly.
 To develop a prototype during this digital Hackathon, while not being able to physically interact with the other team members, the softwares of choice were SolidWorks and Tinkercad, the first to emulate a 3D product and the second to validate the Arduino control system.
 
+### CAD 3D OPEN SOURCE
+
+Check here the CAD 3D: https://drive.google.com/drive/folders/1UlkhRcetQU_LNOHQUwG_8QgRk6gaHbJ2?usp=sharing
+![solarized palettes](https://github.com/TryNoExcept/SpaceAppsChallenge/blob/master/3d.png)
+
 ### ELECTRONIC SIMULATION AND PROGRAMMING 
 
 ![solarized palettes](https://github.com/TryNoExcept/SpaceAppsChallenge/blob/master/arduino.PNG)
