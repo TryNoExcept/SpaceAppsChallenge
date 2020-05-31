@@ -24,6 +24,28 @@ This drastic measures such as lockdown taken by countries worldwide to contain t
 
 People stay indoors for about 93% of their time and this may increase to 100% for some in the current situation, which increases their rate of exposure to poor Indoor Air Quality. Indoor concentration of some contaminants are sometimes 2-5 times their relative outdoor concentration. Home isolation due to coronavirus might protect us from this virus, but poor ventilation due to the fear of contracting COVID-19 might lead to other health problems. An air purifier can be a good outlet for this issue, but most of the population does not have enough budget to afford such a device due to high level prices. Furthermore, most of this equipment is not adaptable to the environment, requiring a room redesign to have a full efficiency at purifying the air. 
 
+### SOLUTION
+Merging a conventional filtration mechanism with UV-C radiation technology, based on Nasa’s own Airocide product, enables our solution to provide a better air quality at indoor ambients at lower costs, making a positive impact in the lives of individuals in vulnerable conditions. The project puts together two technologies in a cheaper and more accessible structure, making its validation faster and simpler. Even though all the components exist already, the innovation comes in the way they are utilized and in the development of new support structures, adapting the product for different environments.
+
+
+![solarized palettes](https://github.com/TryNoExcept/SpaceAppsChallenge/blob/master/modulair.jpg)
+
+### PROJECT DEVELOPMENT 
+
+Coming from a different background of usual Hackathon teams, ours consists mainly of mechanical and electrical engineers, so, the choice of challenge was purifying air, which enables us to build a prototype instead of creating an app. 
+The main focus of the solution is to help the society to live better through the improvement of air quality, both during this time of the COVID-19 pandemic and beyond. After discarding outdated options, inspired by Nasa's purifying technologies, ModulAir was the chosen concept based on its viability and the potential to make a positive impact on people’s lives. 
+The availability of numerous articles about air purifying, both on space and on Earth, was essential to provide a better comprehension about the different processes. Based on the provided articles and data about air quality the team was able to elaborate and later improve our solution constantly.
+To develop a prototype during this digital Hackathon, while not being able to physically interact with the other team members, the softwares of choice were SolidWorks and Tinkercad, the first to emulate a 3D product and the second to validate the Arduino control system.
+
+### ELECTRONIC SIMULATION AND PROGRAMMING 
+
+![solarized palettes](https://github.com/TryNoExcept/SpaceAppsChallenge/blob/master/arduino.PNG)
+
+![solarized palettes](https://github.com/TryNoExcept/SpaceAppsChallenge/blob/master/Fluxograma.PNG)
+
+### CREW MEMBERS 
+
+![solarized palettes](https://github.com/TryNoExcept/SpaceAppsChallenge/blob/master/teamcrew.jpg)
 
 ### REFERENCES
 
