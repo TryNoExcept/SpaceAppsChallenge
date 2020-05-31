@@ -28,7 +28,7 @@ People stay indoors for about 93% of their time and this may increase to 100% fo
 Merging a conventional filtration mechanism with UV-C radiation technology, based on Nasa’s own Airocide product, enables our solution to provide a better air quality at indoor ambients at lower costs, making a positive impact in the lives of individuals in vulnerable conditions. The project puts together two technologies in a cheaper and more accessible structure, making its validation faster and simpler. Even though all the components exist already, the innovation comes in the way they are utilized and in the development of new support structures, adapting the product for different environments.
 
 
-![solarized palettes](https://github.com/TryNoExcept/SpaceAppsChallenge/blob/master/modulair.jpg)
+![solarized palettes](https://github.com/TryNoExcept/SpaceAppsChallenge/blob/master/modulair.PNG)
 
 ### PROJECT DEVELOPMENT 
 
@@ -41,7 +41,7 @@ To develop a prototype during this digital Hackathon, while not being able to ph
 
 ![solarized palettes](https://github.com/TryNoExcept/SpaceAppsChallenge/blob/master/arduino.PNG)
 
-![solarized palettes](https://github.com/TryNoExcept/SpaceAppsChallenge/blob/master/Fluxograma.PNG)
+![solarized palettes](https://github.com/TryNoExcept/SpaceAppsChallenge/blob/master/Fluxograma.png)
 
 ### CREW MEMBERS 
 
