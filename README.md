@@ -13,7 +13,7 @@ Merging a conventional filtration mechanism with UV-C radiation technology, base
 
 The operation principal is simple: A compressor pulls air inside of the chamber. This air is initally filtered through a physical filter. After that, this air will be displaced based in a flap mechanism, going into one of the two chamber. Inside the chamber, an UV-C Light is responsible for filtering Virus and Bacteria for 15 seconds, seeking a complete filtering. Once the filtering time ends, the chamber a flap allows the air to go back to the ambient, but, simultaneously, the other chambers restarts the filtering process with dirty air. 
 
-### Problem
+### PROBLEM
 High Levels of pollution in large urban centers are not new information. NASA’s Air Quality Group has been collecting data showing how NO2 concentration decreased recently and this changes are driven by alteration in human behavior as a response to evolving restrictions during the COVID-19 pandemic.
 
 
