@@ -36,8 +36,12 @@ Coming from a different background of usual Hackathon teams, ours consists mainl
 The main focus of the solution is to help the society to live better through the improvement of air quality, both during this time of the COVID-19 pandemic and beyond. After discarding outdated options, inspired by Nasa's purifying technologies, ModulAir was the chosen concept based on its viability and the potential to make a positive impact on people’s lives. 
 The availability of numerous articles about air purifying, both on space and on Earth, was essential to provide a better comprehension about the different processes. Based on the provided articles and data about air quality the team was able to elaborate and later improve our solution constantly.
 To develop a prototype during this digital Hackathon, while not being able to physically interact with the other team members, the softwares of choice were SolidWorks and Tinkercad, the first to emulate a 3D product and the second to validate the Arduino control system.
+![solarized palettes](https://github.com/TryNoExcept/SpaceAppsChallenge/blob/master/cortefinalld.png)
+
+![solarized palettes](https://github.com/TryNoExcept/SpaceAppsChallenge/blob/master/Calculos.PNG)
 
 ### CAD 3D OPEN SOURCE
+![solarized palettes](https://github.com/TryNoExcept/SpaceAppsChallenge/blob/master/unknown.png)
 
 Check here the CAD 3D: https://drive.google.com/drive/folders/1UlkhRcetQU_LNOHQUwG_8QgRk6gaHbJ2?usp=sharing
 ![solarized palettes](https://github.com/TryNoExcept/SpaceAppsChallenge/blob/master/3d.png)
@@ -56,6 +60,8 @@ Check here the Chart Flow in PDF: https://github.com/TryNoExcept/SpaceAppsChalle
 ### MEETING MINUTES
 Check here our Meeting Minutes: https://drive.google.com/drive/folders/1N3H63mHlP59Ebbp0dhKbDuDc_fGKpCKg?usp=sharing
 
+### BIBLIOGRAPHY
+Check here our bibliography: https://drive.google.com/drive/folders/1QptxZPGYmsnTC1ftcVD5MVMWZ18NYQJw?usp=sharing
 ### CREW MEMBERS 
 
 ![solarized palettes](https://github.com/TryNoExcept/SpaceAppsChallenge/blob/master/teamcrew.jpg)
