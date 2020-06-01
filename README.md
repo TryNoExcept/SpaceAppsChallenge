@@ -60,6 +60,10 @@ Check here our Meeting Minutes: https://drive.google.com/drive/folders/1N3H63mHl
 
 ![solarized palettes](https://github.com/TryNoExcept/SpaceAppsChallenge/blob/master/teamcrew.jpg)
 
+### CHECK OUR SOCIAL MEDIA
+TWITTER: https://twitter.com/TryNoExcept
+INSTAGRAM: https://www.instagram.com/trynoexcept/
+
 ### REFERENCES
 
 NATIONAL AERONAUTICS AND SPACE ADMINISTRATION. Life Support Systems. 2017. Sustaining Humans Beyond Earth. Disponível em: https://www.nasa.gov/content/life-support-systems. Acesso em: 30 maio 2020.
